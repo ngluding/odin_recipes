@@ -1,0 +1,57 @@
+.garlic {
+    height: auto;
+    width: 700px;   
+    display: block;
+    margin: auto;
+    border: 5px solid black;
+}
+
+.cookie {
+    height: auto;
+    width: 350px;
+    display: block;
+    margin: auto;
+    border: 5px solid black;
+}
+
+.pizza {
+    display: block;
+    margin:auto;
+    height: auto;
+    width: 400px;
+    border: 5px solid black;
+}
+
+
+.main {
+    text-align: center; 
+    background:floralwhite;
+}
+
+.header {
+    background-color: peachpuff;
+    border: 10px solid black;
+    padding: 20px;
+    margin: 20px auto;
+    width: 500px;
+    text-align: center;
+}
+
+.main-links li {
+    list-style: none;
+    margin: 15px;
+}
+
+a {
+    text-decoration: none;
+    color:snow;
+    background:slategray;
+    padding: 5px;
+}
+
+.main h1,
+.main h3 {
+    color: rgb(185, 133, 54);
+}
+
+
